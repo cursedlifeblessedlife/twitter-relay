@@ -1,0 +1,6 @@
+.vscode/
+infos.log
+.env
+channels.json
+usernames.json
+__pycache__
