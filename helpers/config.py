@@ -4,6 +4,7 @@ import logging
 import logging.config
 from dotenv import load_dotenv
 
+
 #DOTENV Initialization
 load_dotenv()
 
